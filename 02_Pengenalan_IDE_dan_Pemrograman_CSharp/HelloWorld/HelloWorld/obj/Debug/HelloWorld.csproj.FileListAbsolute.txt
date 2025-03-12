@@ -1,0 +1,10 @@
+C:\KPL_MARIA-NATHASYA-DESFERA-PANGESTU_2211104008_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\KPL_MARIA-NATHASYA-DESFERA-PANGESTU_2211104008_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\KPL_MARIA-NATHASYA-DESFERA-PANGESTU_2211104008_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\KPL_MARIA-NATHASYA-DESFERA-PANGESTU_2211104008_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\KPL_MARIA-NATHASYA-DESFERA-PANGESTU_2211104008_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\KPL_MARIA-NATHASYA-DESFERA-PANGESTU_2211104008_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\KPL_MARIA-NATHASYA-DESFERA-PANGESTU_2211104008_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\KPL_MARIA-NATHASYA-DESFERA-PANGESTU_2211104008_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\KPL_MARIA-NATHASYA-DESFERA-PANGESTU_2211104008_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\KPL_MARIA-NATHASYA-DESFERA-PANGESTU_2211104008_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
