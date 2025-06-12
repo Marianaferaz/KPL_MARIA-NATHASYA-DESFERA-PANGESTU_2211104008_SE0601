@@ -1,0 +1,32 @@
+{
+  "members": [
+    {
+      "firstName": "Maria",
+      "lastName": "Nathasya",
+      "gender": "Female",
+      "age": 21,
+      "nim": "2211104008"
+    },
+    {
+      "firstName": "Aubrey",
+      "lastName": "Raihan",
+      "gender": "Male",
+      "age": 21,
+      "nim": "2211104010"
+    },
+    {
+      "firstName": "Syahrul",
+      "lastName": "Zaki",
+      "gender": "Male",
+      "age": 21,
+      "nim": "2211104014"
+    },
+    {
+      "firstName": "Wahyu",
+      "lastName": "Isnantia",
+      "gender": "Male",
+      "age": 21,
+      "nim": "2211104021"
+    }
+  ]
+}
