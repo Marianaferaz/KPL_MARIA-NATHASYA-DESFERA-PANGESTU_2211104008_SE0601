@@ -1,20 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace tpmodul12_2211104008
+private void button1_Click(object sender, EventArgs e)
 {
-    public partial class Form1: Form
+    int input;
+    if (int.TryParse(textBox1.Text, out input))
     {
-        public Form1()
-        {
-            InitializeComponent();
-        }
+        label1.Text = CariTandaBilangan(input);
+    }
+    else
+    {
+        label1.Text = "Input tidak valid!";
     }
 }
