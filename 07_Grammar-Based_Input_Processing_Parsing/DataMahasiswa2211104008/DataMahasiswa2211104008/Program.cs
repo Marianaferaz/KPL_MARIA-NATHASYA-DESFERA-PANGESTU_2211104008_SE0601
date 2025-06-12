@@ -1,11 +1,10 @@
-﻿using System;
-using Newtonsoft.Json;
+﻿using tpmodul7;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        DataMahasiswa2211104008 data = new DataMahasiswa2211104008();
-        data.ReadJSON();
+        DataMahasiswa2211104008.ReadJSON();
+        KuliahMahasiswa2211104008.ReadJSON();
     }
 }
